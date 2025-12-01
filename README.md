@@ -1,6 +1,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
-I'm currently learning and exploring advanced concepts in **DSA, Web Development, DBMS, Operating Systems, DAA, Dynamic Programming, Excel with AI, and Generative AI** to strengthen my development and problem-solving skills.
+I'm currently learning 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrutha_shekhar)
